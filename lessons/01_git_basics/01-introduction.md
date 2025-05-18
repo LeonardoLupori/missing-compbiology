@@ -2,9 +2,8 @@
 
 ## Outline
 
-[The Basics](#the-basics)  
-[The History of git](#the-history-of-git)  
-
+- [The Basics](#the-basics)
+- [The History of git](#the-history-of-git)  
 
 
 ## The Basics
